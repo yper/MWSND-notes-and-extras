@@ -1,6 +1,7 @@
 # Timing
 
-[Calendar on Google site](https://sites.google.com/knowlabs.com/gdnd2017/calendar)
+> [Calendar on Google site](https://sites.google.com/knowlabs.com/gdnd2017/calendar)  
+> [Deadlines on Google site](https://sites.google.com/knowlabs.com/gdnd2017/deadlines)   
 
 ## Week 07 - February 12 - February 18  
 - [Nanodegree orientation](https://github.com/yper/MWSND-notes-and-extras/blob/master/1.%20Nanodegree%20orientation/1-nanodegree-orientation.md)
@@ -18,7 +19,8 @@
 ## Week 11 - March 12 - March 18
 
 ## Week 12 - March 19 - March 25
-
+- Submit project stage 1
+- 
 ## Week 13 - March 26 - April 1
 
 ## Week 14 - April 2 - April 8
@@ -37,6 +39,7 @@
 ## Week 20 - May 14 - May 20
 
 ## Week 21 - May 21 - May 27
+- Submit project stage 2
 
 ## Week 22 - May 28 - June 3
 
@@ -46,6 +49,7 @@
 ## Week 24 - June 11	- June 17
 
 ## Week 25 - June 18	- June 24
+- Submit project stage 2
 
 ## Week 26 - June 25	- July 1
 
