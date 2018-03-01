@@ -1,5 +1,5 @@
 # Optimizations
-#Learn how to optimize images, tables, and fonts to make for the best responsive layouts.#
+*Learn how to optimize images, tables, and fonts to make for the best responsive layouts.*
 
 ## Images
 Image sources  

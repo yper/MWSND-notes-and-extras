@@ -12,7 +12,9 @@
 - [2.3. Building up](https://github.com/yper/MWSND-notes-and-extras/blob/master/2.%20Accessible%20%26%20responsive%20web%20apps/3-building-up.md)
 
 ## Week 09 - February 26 - March 4
-- [2.4. Common responsive patterns](https://github.com/yper/MWSND-notes-and-extras/blob/master/2.%20Accessible%20%26%20responsive%20web%20apps/4-common-responsive-patterns.md)
+- [2.4. Common responsive patterns](https://github.com/yper/MWSND-notes-and-extras/blob/master/2.%20Accessible%20%26%20responsive%20web%20apps/4-common-responsive-patterns.md)  
+- [2.5. Optimizations](https://github.com/yper/MWSND-notes-and-extras/blob/master/2.%20Accessible%20%26%20responsive%20web%20apps/5-optimizations.md)  
+- 2.6. Getting up and running  
 
 ## Week 10 - March 5 - March 11
 
