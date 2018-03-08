@@ -17,7 +17,8 @@
 - 2.6. Getting up and running  
 
 ## Week 10 - March 5 - March 11
-- 2.7 Units, formats, environments
+- 2.7 Units, formats, environments  
+- 2.8 Images with markup  
 
 ## Week 11 - March 12 - March 18
 
