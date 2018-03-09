@@ -20,6 +20,7 @@
 - 2.7 Units, formats, environments  
 - [Responsive images project - Part 1](https://github.com/yper/MWSND-responsive-images-project/tree/98510827d28540b9d134c3ba02e1c91c578310bc)   
 - 2.8 Images with markup  
+- [Responsive images project - Part 2](https://github.com/yper/MWSND-responsive-images-project/commit/8198868aaac63a921f707d35715a8ab246352fb3)   
 
 ## Week 11 - March 12 - March 18
 
