@@ -14,13 +14,14 @@
 ## Week 09 - February 26 - March 4
 - [2.4. Common responsive patterns](https://github.com/yper/MWSND-notes-and-extras/blob/master/2.%20Accessible%20%26%20responsive%20web%20apps/4-common-responsive-patterns.md)  
 - [2.5. Optimizations](https://github.com/yper/MWSND-notes-and-extras/blob/master/2.%20Accessible%20%26%20responsive%20web%20apps/5-optimizations.md)  
-- 2.6. Getting up and running  
+- [2.6. Getting up and running](https://github.com/yper/MWSND-notes-and-extras/blob/master/2.%20Accessible%20%26%20responsive%20web%20apps/6-getting-up-and-running.md)     
 
 ## Week 10 - March 5 - March 11
-- 2.7 Units, formats, environments  
+- [2.7 Units, formats, environments](https://github.com/yper/MWSND-notes-and-extras/blob/master/2.%20Accessible%20%26%20responsive%20web%20apps/7-units-formats-environments.md)  
 - [Responsive images project - Part 1](https://github.com/yper/MWSND-responsive-images-project/tree/98510827d28540b9d134c3ba02e1c91c578310bc)   
-- 2.8 Images with markup  
+- [2.8 Images with markup](https://github.com/yper/MWSND-notes-and-extras/blob/master/2.%20Accessible%20%26%20responsive%20web%20apps/8-images-with-markup.md)  
 - [Responsive images project - Part 2](https://github.com/yper/MWSND-responsive-images-project/commit/8198868aaac63a921f707d35715a8ab246352fb3)   
+- [2.9 Full responsiveness](https://github.com/yper/MWSND-notes-and-extras/blob/master/2.%20Accessible%20%26%20responsive%20web%20apps/9-full-responsiveness.md)   
 
 ## Week 11 - March 12 - March 18
 
