@@ -24,6 +24,7 @@
 - [2.9 Full responsiveness](https://github.com/yper/MWSND-notes-and-extras/blob/master/2.%20Accessible%20%26%20responsive%20web%20apps/9-full-responsiveness.md)   
 
 ## Week 11 - March 12 - March 18
+- [Responsive images project - Part 3](https://github.com/yper/MWSND-responsive-images-project/commit/186884a809f104f4dec901d1a5bf3c96de1dd4f6)
 
 ## Week 12 - March 19 - March 25
 - Submit project stage 1
