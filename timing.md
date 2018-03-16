@@ -27,6 +27,7 @@
 - [Responsive images project - Part 3](https://github.com/yper/MWSND-responsive-images-project/commit/186884a809f104f4dec901d1a5bf3c96de1dd4f6)
 - 2.10 Accessibility overview  
 - 2.11 Focus
+- 2.12 Semantics basics
 
 ## Week 12 - March 19 - March 25
 - Submit project stage 1
