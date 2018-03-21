@@ -30,8 +30,11 @@
 - 2.12 Semantics basics
 
 ## Week 12 - March 19 - March 25
-- Submit project stage 1
-- 
+- 2.13 Navigating content  
+
+
+- TODO: Submit project stage 1
+
 ## Week 13 - March 26 - April 1
 
 ## Week 14 - April 2 - April 8
