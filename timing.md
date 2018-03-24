@@ -31,6 +31,8 @@
 
 ## Week 12 - March 19 - March 25
 - 2.13 Navigating content  
+- 2.14 ARIA  
+- 2.15 Style   
 
 
 - TODO: Submit project stage 1
