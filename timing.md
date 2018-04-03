@@ -34,13 +34,11 @@
 - 2.14 ARIA  
 - 2.15 Style   
 
-
-- TODO: Submit project stage 1
-
 ## Week 13 - March 26 - April 1
+- Submit project stage 1
 
 ## Week 14 - April 2 - April 8
-- April 7: deadline project stage 1
+- 3.1 Ajax with XHR
 
 ## Week 15 - April 9 - April 15
 
