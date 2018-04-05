@@ -39,6 +39,7 @@
 
 ## Week 14 - April 2 - April 8
 - 3.1 Ajax with XHR
+- 3.2 Ajax with jQuery
 
 ## Week 15 - April 9 - April 15
 
