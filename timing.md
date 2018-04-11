@@ -42,6 +42,7 @@
 - 3.2 Ajax with jQuery
 
 ## Week 15 - April 9 - April 15
+- 3.3 Ajax with Fetch
 
 ## Week 16 - April 16 - April 22
 
